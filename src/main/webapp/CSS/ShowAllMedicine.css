@@ -1,0 +1,67 @@
+@charset "UTF-8";
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+      }
+
+      th,
+      td 
+      {
+        border: 1px solid #ddd;
+        font-size: 20px;
+        text-align:center;
+        justify-content:center;
+        height: 20px;
+      }
+
+      th {
+        background-color: #f2f2f2;
+      }
+
+      tr:nth-child(odd) {
+        background-color: #f2f2f2;
+      }
+
+      caption {
+        font-weight: bold;
+        font-size: 1.2em;
+        margin-bottom: 10px;
+      }
+
+      thead {
+        font-weight: bold;
+      }
+
+      tfoot {
+        font-weight: bold;
+      }
+
+
+.content
+{
+	height: 100%;
+	width: 70%;
+	margin-left: 30%;
+}
+.heading
+{
+	color: black;	
+ 
+}
+.Menubar
+{
+	height: 100%;
+	width: 30%;	
+}
+
+
+.demo
+{
+	padding: 40px;
+	border: 1px;
+	border-radius: 10px;
+	position:relative;
+	margin-left:70px;
+	margin: 10px;
+}

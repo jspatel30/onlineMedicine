@@ -1,0 +1,4 @@
+URLNAME = jdbc:mysql://localhost:3307/Online_Medical
+DRIVERNAME = com.mysql.cj.jdbc.Driver
+USERNAME = root
+PASSWORD = jaypatelsql3003

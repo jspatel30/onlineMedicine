@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.link
+{
+	background-color:red;
+	height: 400px;
+	position: absolute;
+	bottom: 5;
+	right: 50%;	
+}
+h1
+{
+	margin-top: 70px;
+}

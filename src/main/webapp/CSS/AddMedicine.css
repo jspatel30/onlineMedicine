@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.table
+{
+	margin-top: 120px;
+	margin-left: 150px;
+	height:200px;
+	
+}
+td
+{
+	padding :13px;
+	border-radius: 5px;
+}
+ .table h1
+ {
+ 	 color: black;
+ }
